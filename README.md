@@ -1,2 +1,0 @@
-# simpledb
-Made By YSteelX
